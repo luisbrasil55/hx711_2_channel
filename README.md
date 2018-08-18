@@ -1,2 +1,2 @@
-# hx711_2_channelS
+# hx711_2_channels
 with two channels
