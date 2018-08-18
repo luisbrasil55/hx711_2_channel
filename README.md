@@ -1,2 +1,6 @@
 # hx711_2_channels
-with two channels
+Code based on HX711 board library.
+
+just run. 
+
+:)
